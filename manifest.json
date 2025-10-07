@@ -1,0 +1,9 @@
+{
+  "api": "1.0.0",
+  "editorType": [
+    "figma"
+  ],
+  "id": "multiavatar",
+  "name": "Multiavatar",
+  "main": "build/main.js"
+}
